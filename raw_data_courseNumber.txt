@@ -1,0 +1,14 @@
+123456789 Bryant Kobe Senior Enrolled Thu Jan 1 00:00:00 1970
+123654987 Harden James Senior Added Mon Nov 4 00:51:07 2019
+345698712 Davis Anthony Sophomore Enrolled Mon Jan 12 14:56:09 1970
+987654321 James Lebron Sophomore Enrolled Thu Jan 1 00:00:00 1970
+123456789 Bryant Kobe Senior Enrolled Thu Jan 1 00:00:00 1970
+123654987 Harden James Senior Added Mon Nov 4 00:51:07 2019
+345698712 Davis Anthony Sophomore Enrolled Mon Jan 12 14:56:09 1970
+987654321 James Lebron Sophomore Enrolled Thu Jan 1 00:00:00 1970
+123456789 Bryant Kobe Senior Enrolled Thu Jan 1 00:00:00 1970
+123654987 Harden James Senior Added Mon Nov 4 00:51:07 2019
+123654987 Harden James Senior Dropped Mon Nov 4 00:51:18 2019
+987654321 James Lebron Sophomore Dropped Mon Nov 4 00:51:18 2019
+123456789 Bryant Kobe Senior Dropped Mon Nov 4 00:51:18 2019
+123654987 Harden James Senior Dropped Mon Nov 4 00:51:18 2019

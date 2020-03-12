@@ -1,0 +1,112 @@
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1456
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 1
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1456
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 2
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1456
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 3
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+345698712 Davis           Anthony         Sophomore Enrolled 01/12/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1456
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 4
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+345698712 Davis           Anthony         Sophomore Enrolled 01/12/1970 
+987654321 James           Lebron          Sophomore Enrolled 01/01/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1234
+Course: CECS282
+Semester: Fall 2019
+Enrollment: 1
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1234
+Course: CECS282
+Semester: Fall 2019
+Enrollment: 2
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1234
+Course: CECS282
+Semester: Fall 2019
+Enrollment: 3
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+345698712 Davis           Anthony         Sophomore Enrolled 01/12/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1345
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 1
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+987654321 James           Lebron          Sophomore Enrolled 01/01/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1345
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 2
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+987654321 James           Lebron          Sophomore Enrolled 01/01/1970 
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+---------------------------------------------------------------------
+Part-time Instructor: Minhthong Nguyen
+Course Number: 1345
+Course: CECS228
+Semester: Fall 2019
+Enrollment: 3
+Maximum Enrollment: 35
+Last Date To Enroll: Sun Nov 3 22:04:37 2019
+ID        Last Name       First Name      Level     Status   Date       
+987654321 James           Lebron          Sophomore Enrolled 01/01/1970 
+123456789 Bryant          Kobe            Senior    Enrolled 01/01/1970 
+123654987 Harden          James           Senior    Added    11/04/2019 
+---------------------------------------------------------------------
